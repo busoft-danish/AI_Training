@@ -233,13 +233,3 @@ Add a new entity type by registering it in `RendererFactory` and `ConnectorFacto
 | Clock skew risk | None | Low (use UTC, add buffer) |
 
 ---
-
-## Future Improvements
-
-1. Add async MinIO client (aiobotocore) to remove the sync boto3 bottleneck
-2. Add retry logic with exponential backoff for upload failures
-3. Support additional source types (CSV, REST API) via new connectors
-4. Add a scheduler (APScheduler or cron) for automated incremental syncs
-5. Add Prometheus metrics for sync duration and failure rates
-6. Add soft-delete support — keep DELETED markdown files in MinIO for audit
-7. Add parallel processing for large datasets using asyncio.gather
