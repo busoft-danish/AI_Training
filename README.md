@@ -1,6 +1,5 @@
 # KidShuttle — Safety Protocol & Route Knowledge Base
-
-Team D's production-grade markdown synchronization pipeline for RAG preparation.
+production-grade markdown synchronization pipeline for RAG preparation.
 
 ---
 
