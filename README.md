@@ -233,3 +233,11 @@ Add a new entity type by registering it in `RendererFactory` and `ConnectorFacto
 | Clock skew risk | None | Low (use UTC, add buffer) |
 
 ---
+Proof - 
+
+<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/b1c3cfa1-2d48-489d-ad5a-6c586166a63b" />
+
+<img width="1897" height="891" alt="image" src="https://github.com/user-attachments/assets/811dadcc-0655-41f3-bc1e-2ede0f9b9f44" />
+
+<img width="1905" height="977" alt="image" src="https://github.com/user-attachments/assets/aea14d6f-cbdc-49ce-83e3-35a1c551d404" />
+
