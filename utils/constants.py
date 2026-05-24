@@ -1,0 +1,16 @@
+ENTITY_DRIVER = "driver"
+ENTITY_INCIDENT = "incident"
+
+SOURCE_EXCEL = "excel"
+SOURCE_POSTGRES = "postgres"
+
+STATUS_NEW = "NEW"
+STATUS_UPDATED = "UPDATED"
+STATUS_DELETED = "DELETED"
+STATUS_UNCHANGED = "UNCHANGED"
+
+MINIO_PREFIX_DRIVERS = "kidshuttle/drivers"
+MINIO_PREFIX_INCIDENTS = "kidshuttle/incidents"
+
+OUTPUT_DRIVERS = "output/drivers"
+OUTPUT_INCIDENTS = "output/incidents"
